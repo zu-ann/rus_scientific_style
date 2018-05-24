@@ -6,5 +6,5 @@ This repository contains files for the coursework "Automated Lexicon Сonstructi
 * measuring.ipytnb (includes functions which were used in calculating different features)
 * evaluating.ipytnb (contains code with which the results were evaluated)
 
-The files with results of each method are in the folder ```results```.
+The results of each method are in the folder ```results```.
 
